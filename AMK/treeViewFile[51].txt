@@ -1,0 +1,4 @@
+vpsk.bo
+vpsk.heo
+vpsk.cuu
+vpsk.ga

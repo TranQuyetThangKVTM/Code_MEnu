@@ -1,0 +1,7 @@
+nh.hh
+nh.tao
+nh.oh
+nh.chanh
+nh.vq
+nh.sen
+nh.dau

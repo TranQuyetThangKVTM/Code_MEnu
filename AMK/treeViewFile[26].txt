@@ -1,0 +1,9 @@
+tra.hh
+tra.da
+tra.tao
+tra.chanh
+tra.nho
+tra.cuc
+tra.traicay
+tra.vq
+tra.sen

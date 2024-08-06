@@ -1,0 +1,188 @@
+size 1280 720
+// Ấn vào quầy
+touch 845 490
+delay 1000
+
+-----------------THU VÀNG--------------------
+
+loop 2
+// vị trí 1
+touch 318 539
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+loop 2
+// vị trí 2
+touch 523 545
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+loop 2
+// vị trí 3
+touch 731 539
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+loop 2
+// vị trí 4
+touch 928 543
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+
+===== THOÁT QUẦY =======
+delay 1000
+touch 132 645
+delay 1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+size 1280 720
+// Ấn vào quầy
+touch 845 490
+delay 1000
+
+-----------------THU VÀNG--------------------
+
+
+loop 2
+// vị trí 5
+touch 328 257
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+
+loop 2
+// vị trí 6
+touch 520 258
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+
+
+loop 2
+// vị trí 7
+touch 729 252
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+
+
+
+loop 2
+// vị trí 8
+touch 932 256
+delay 500
+touch 652 315
+delay 500
+touch 180 202
+delay 200
+touch 1029 657
+delay 200
+//debug
+touch 634 678
+delay 200
+touch 805 38
+delay 200
+loopend
+
+
+===== THOÁT QUẦY =======
+delay 1000
+touch 132 645
+delay 1000
+
+
+
+

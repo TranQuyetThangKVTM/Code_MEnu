@@ -1,0 +1,7 @@
+vpcc.khan
+vpcc.dam
+vpcc.non
+vpcc.no
+vpcc.tui
+vpcc.ao
+vpcc.giay
