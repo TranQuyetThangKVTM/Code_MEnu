@@ -1,0 +1,212 @@
+size 1000 1000
+// Ấn vào quầy
+touch  632 800
+delay 1000
+
+-----------------THU VÀNG--------------------
+
+loop 2
+// vị trí 1
+touch 239 399
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+loop 2
+// vị trí 2
+touch 389 398
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+loop 2
+// vị trí 3
+touch 542 397
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+loop 2
+// vị trí 4
+touch 690 397
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+
+===== THOÁT QUẦY =======
+delay 1000
+touch 132 645
+delay 1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+size 1000 1000
+// Ấn vào quầy
+touch  632 800
+delay 1000
+
+-----------------THU VÀNG--------------------
+
+
+loop 2
+// vị trí 5
+touch 233 616
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+
+loop 2
+// vị trí 6
+touch 389 614
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+
+
+loop 2
+// vị trí 7
+touch 540 615
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+
+
+
+loop 2
+// vị trí 8
+touch 685 612
+delay 500
+
+touch 484 439
+delay 500
+
+touch 137 349
+delay 200
+
+touch 756 700
+delay 200
+//debug
+touch 445 709
+delay 200
+touch 601 256
+delay 200
+loopend
+
+
+===== THOÁT QUẦY =======
+delay 1000
+touch 132 645
+delay 1000
+
+
+
+
